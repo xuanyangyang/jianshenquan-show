@@ -1,6 +1,9 @@
 # 健身圈
-### 使用技术
-        后台管理界面: angular4
-        移动端: ionic3 websocket 
-        后台: spring boot + spring security + spring jpa + spring websocket + mysql
-        后台(微服务版): spring cloud + docker 部署 
+### 主要技术
+    后台管理界面: angular4 + ngrx状态管理
+    移动端: angular4 + ionic3 + ngrx状态管理 + websocket
+    后台: spring boot + spring security + spring jpa + spring websocket + mysql + cos(腾讯的对象存储)
+    后台(微服务版): spring cloud + docker 部署
+
+## 安卓
+![登陆](https://github.com/LieRabbit/jianshenquan-show/android/login.png)
