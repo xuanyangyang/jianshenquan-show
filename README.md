@@ -6,9 +6,3 @@
     后台(微服务版): spring cloud + docker 部署
 
 ## 安卓
-![首页](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/home.png)
-![发现](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/find.png)
-![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/my.png)
-![登陆](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/login.png)
-![注册](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/registry.png)
-<img src="https://github.com/LieRabbit/jianshenquan-show/blob/master/android/home.png" width="10rem" height="10rem">
