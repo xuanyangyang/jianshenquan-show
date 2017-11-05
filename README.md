@@ -11,4 +11,9 @@
     后台(微服务版): spring cloud + docker 部署
 
 ## 安卓
-![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/android.pdf)
+如果无法显示图片请下载后查看(图片位于android/images)
+![android1](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android1.png)
+![android2](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android2.png)
+![android3](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android3.png)
+![android4](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android4.png)
+![android5](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android5.png)
