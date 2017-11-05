@@ -5,9 +5,9 @@
     由于短信接口剩余使用次数不足，可能无法注册用户
     使用账号：15502627152 密码：123456 进行体验
 ### 演示视频
-[安卓(android)版](https://pan.baidu.com/s/1o8Shfho) 提取密码: rd2z
+[安卓(android)版](https://pan.baidu.com/s/1o8Shfho) 测试使用手机：小米6 提取密码: rd2z
 <br>
-[苹果(ios)版](https://pan.baidu.com/s/1sliFJ3J) 提取密码: xpmy
+[苹果(ios)版](https://pan.baidu.com/s/1sliFJ3J) 测试使用手机：iphone7 plus 提取密码: xpmy 
 ### 主要技术
     后台管理界面: angular4 + ngrx状态管理
     移动端: angular4 + ionic3 + ngrx状态管理 + websocket
