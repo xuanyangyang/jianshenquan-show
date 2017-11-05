@@ -10,7 +10,10 @@
 ### 演示视频
 [安卓(android)版](https://pan.baidu.com/s/1o8Shfho) 测试使用手机：小米6 提取密码: rd2z
 <br>
-[苹果(ios)版](https://pan.baidu.com/s/1sliFJ3J) 测试使用手机：iphone7 plus 提取密码: xpmy 
+[苹果(ios)版](https://pan.baidu.com/s/1sliFJ3J) 测试使用手机：iphone7 plus 提取密码: xpmy
+<br>
+[web俱乐部管理](https://pan.baidu.com/s/1cFEy4Y) 测试使用浏览器：safari 提取密码: 4vxb
+
 ### 主要技术
     后台管理界面: angular4 + ngrx状态管理
     移动端: angular4 + ionic3 + ngrx状态管理 + websocket
@@ -34,3 +37,17 @@
 ![ios3](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios3.png)
 ![ios4](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios4.png)
 ![ios5](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios5.png)
+
+## 俱乐部管理系统(web)
+如果无法显示图片请下载后查看(图片位于web/images)
+<br>
+![登陆](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/login.png)
+![首页](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/home.png)
+![俱乐部](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/club.png)
+![俱乐部--编辑上](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/club-edit1.png)
+![俱乐部--编辑下](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/club-edit2.png)
+![商品](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/commodities.png)
+![商品--编辑上](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/commodity-edit1.png)
+![商品--编辑下](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/commodity-edit2.png)
+![货品](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/goods.png)
+![货品--编辑](https://github.com/LieRabbit/jianshenquan-show/blob/master/web/images/goods-edit.png)
