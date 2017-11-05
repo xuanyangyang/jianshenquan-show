@@ -8,11 +8,11 @@
     账号：13367719632 秘密：123456
 
 ### 演示视频
-[安卓(android)版](https://pan.baidu.com/s/1o8Shfho) 测试使用手机：小米6 提取密码: rd2z
+[安卓(android)](https://pan.baidu.com/s/1o8Shfho) 测试使用手机：小米6 提取密码: rd2z
 <br>
-[苹果(ios)版](https://pan.baidu.com/s/1sliFJ3J) 测试使用手机：iphone7 plus 提取密码: xpmy
+[苹果(ios)](https://pan.baidu.com/s/1sliFJ3J) 测试使用手机：iphone7 plus 提取密码: xpmy
 <br>
-[web俱乐部管理](https://pan.baidu.com/s/1cFEy4Y) 测试使用浏览器：safari 提取密码: 4vxb
+[俱乐部管理(web)](https://pan.baidu.com/s/1cFEy4Y) 测试使用浏览器：safari 提取密码: 4vxb
 
 ### 主要技术
     后台管理界面: angular4 + ngrx状态管理
