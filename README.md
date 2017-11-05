@@ -19,6 +19,7 @@
 
 ## 安卓(android)
 如果无法显示图片请下载后查看(图片位于android/images)
+<br>
 ![android1](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android1.png)
 ![android2](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android2.png)
 ![android3](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/android3.png)
@@ -27,6 +28,7 @@
 
 ## 苹果(ios)
 如果无法显示图片请下载后查看(图片位于ios/images)
+<br>
 ![ios1](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios1.png)
 ![ios2](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios2.png)
 ![ios3](https://github.com/LieRabbit/jianshenquan-show/blob/master/ios/images/ios3.png)
