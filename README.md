@@ -8,5 +8,4 @@
     后台(微服务版): spring cloud + docker 部署
 
 ## 安卓
-    ![1](https://pan.baidu.com/s/1o8Shfho)
-    ![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/my.png)
+![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/my.png)
