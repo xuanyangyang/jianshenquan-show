@@ -11,4 +11,4 @@
     后台(微服务版): spring cloud + docker 部署
 
 ## 安卓
-![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/my.png)
+![我的](https://github.com/LieRabbit/jianshenquan-show/blob/master/android/images/my.png)
