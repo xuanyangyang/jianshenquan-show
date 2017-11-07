@@ -17,8 +17,8 @@
 ### 主要技术
     后台管理界面: angular4 + ngrx状态管理
     移动端: angular4 + ionic3 + ngrx状态管理 + websocket
-    后台: spring boot + spring security + spring jpa + spring websocket + mysql + cos(腾讯的对象存储)
-    后台(微服务版): spring cloud + docker 部署
+    后台: spring boot + spring security + spring jpa + spring websocket + mysql + cos(腾讯的对象存储) + docker部署
+    后台(微服务版): 将后台改为spring cloud形式，加入网关，分离业务
 
 ## 安卓(android)
 如果无法显示图片请下载后查看(图片位于android/images)
