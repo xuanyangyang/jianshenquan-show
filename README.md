@@ -15,10 +15,6 @@
 [俱乐部管理(web)](https://pan.baidu.com/s/1cFEy4Y) 测试使用浏览器：safari 提取密码: 4vxb
 
 ### 主要技术
-    后台管理界面: angular4 + ngrx状态管理
-    移动端: angular4 + ionic3 + ngrx状态管理 + websocket
-    后台: spring boot + spring security + spring jpa + spring websocket + mysql + cos(腾讯的对象存储) + docker部署
-    后台(微服务版): 将后台改为spring cloud形式，加入网关，分离业务
     后台管理
     使用angular4作为核心框架
     使用ngrx进行状态管理
