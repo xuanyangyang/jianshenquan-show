@@ -19,6 +19,35 @@
     移动端: angular4 + ionic3 + ngrx状态管理 + websocket
     后台: spring boot + spring security + spring jpa + spring websocket + mysql + cos(腾讯的对象存储) + docker部署
     后台(微服务版): 将后台改为spring cloud形式，加入网关，分离业务
+    后台管理
+    使用angular4作为核心框架
+    使用ngrx进行状态管理
+    使用ng-zorro作为基本UI
+    使用百度地图进行定位
+    使用docker部署
+
+    移动端
+    使用angular4 + ionic3作为核心框架
+    使用ngrx进行状态管理
+    使用sockjs + stompjs进行即时通讯
+    使用百度地图进行定位
+
+    服务端
+    使用spring boot作为核心框架
+    使用spring security整合jwt进行权限控制
+    使用spring jpa进行数据库操作
+    使用spring data rest进行常用查询
+    使用spring websocket实现即时通讯
+    将上传的文件保存到cos（腾讯云的对象存储）
+    使用网易云SMS实现短信发送
+
+    使用docker部署
+    服务端(微服务版)
+    使用spring cloud作为核心框架
+    使用spring cloud eureka进行服务注册与发现
+    使用spring cloud zuul构建网关服务
+    使用spring cloud feign进行微服务调用
+    使用docker compose统一部署各个微服务
 
 ## 安卓(android)
 如果无法显示图片请下载后查看(图片位于android/images)
